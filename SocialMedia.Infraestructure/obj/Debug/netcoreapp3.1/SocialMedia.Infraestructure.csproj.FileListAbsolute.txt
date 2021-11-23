@@ -1,0 +1,13 @@
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\bin\Debug\netcoreapp3.1\SocialMedia.Infraestructure.deps.json
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\bin\Debug\netcoreapp3.1\SocialMedia.Infraestructure.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\bin\Debug\netcoreapp3.1\SocialMedia.Infraestructure.pdb
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.AssemblyInfo.cs
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.csproj.CopyComplete
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.pdb
