@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj": {}
+    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj": {
+    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj",
         "projectName": "SocialMedia.UnitTesting",
-        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj",
+        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.UnitTesting\\SocialMedia.UnitTesting.csproj",
         "packagesPath": "C:\\Users\\BrainerBetancur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.UnitTesting\\obj\\",
+        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BrainerBetancur\\AppData\\Roaming\\NuGet\\NuGet.Config",

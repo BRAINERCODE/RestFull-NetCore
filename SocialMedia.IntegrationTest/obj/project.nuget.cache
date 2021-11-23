@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pZRXB5bi8fxgBTc3EbhhLYeMa/Pbo82v1F3MFbM1HZ35VTnnobXynuEcFsmNy3sAFSK4L6tfDGBU/fmULmWvsQ==",
+  "dgSpecHash": "jtPl17ksYBTcLXsWFAFXwALWe4Q9UvMTZM7aFuhZdyCUdzcu7Ku+RQ6mXxCNUj4Tm+50dGPQ4xGTwwDy5mmIjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
+  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrainerBetancur\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\BrainerBetancur\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

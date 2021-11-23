@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {}
+    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "packagesPath": "C:\\Users\\BrainerBetancur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Core\\obj\\",
+        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BrainerBetancur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {
+    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
         "projectName": "SocialMedia.Infraestructure",
-        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\BrainerBetancur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BrainerBetancur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
