@@ -17,7 +17,6 @@ namespace SocialMedia.API.Controllers
         public PostController(IPostRepository repository)
         {
             _postRepository = repository;
-
         }
         [HttpGet]
         public async Task<IActionResult> Index()

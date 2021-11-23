@@ -11,3 +11,6 @@ C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructur
 C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.csproj.CopyComplete
 C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.dll
 C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.pdb
+C:\Users\BrainerBetancur\source\repos\SocialMedia.Api\SocialMedia.Infraestructure\bin\Debug\netcoreapp3.1\SocialMedia.Infraestructure.runtimeconfig.json
+C:\Users\BrainerBetancur\source\repos\SocialMedia.Api\SocialMedia.Infraestructure\bin\Debug\netcoreapp3.1\SocialMedia.Infraestructure.runtimeconfig.dev.json
+C:\Users\BrainerBetancur\source\repos\SocialMedia.Api\SocialMedia.Infraestructure\obj\Debug\netcoreapp3.1\SocialMedia.Infraestructure.genruntimeconfig.cache
