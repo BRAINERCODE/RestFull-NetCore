@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj": {}
+    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj": {
+    "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
+        "projectUniqueName": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
         "projectName": "SocialMedia.IntegrationTest",
-        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
+        "projectPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
         "packagesPath": "C:\\Users\\BrainerBetancur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.IntegrationTest\\obj\\",
+        "outputPath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.IntegrationTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BrainerBetancur\\AppData\\Roaming\\NuGet\\NuGet.Config",

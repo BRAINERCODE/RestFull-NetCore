@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0aFg5QVhjXlPnGGDhI+cZjLSBfz0fmmW3Zssalz92uiU975PP7G5eRbmdFzx/s+t7zeIhaGTAI5JtTpK2RBPw==",
+  "dgSpecHash": "dM/6KO5kXf421892oLkBgrFYhH+JZ6C7sTF+F2F3yFnAhW1DLyWACdyJs+JttiZMJeDP6ApTPQixoXzW67yVJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.Core\\SocialMedia.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

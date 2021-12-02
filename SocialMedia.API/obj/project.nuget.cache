@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n/7dk47iY7mQLEL5NYb9IfBEFcA0iPxyGIWMxIRYQraEH9nI5JtYkz7WOGgcTfTZQpdFjwY5bEA4XVn3Cd0tRQ==",
+  "dgSpecHash": "Do6ddA7+BPMv99IBc8o3R440UQBLhAzPhLM4DPF2L++2lK/48FSJjCzZNS3xkGCuQ7o9m8dNQiPn0AcxDolD4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.API\\SocialMedia.API.csproj",
+  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.API\\SocialMedia.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrainerBetancur\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\BrainerBetancur\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
