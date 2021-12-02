@@ -31,7 +31,7 @@ namespace SocialMedia.Infraestructure.Data.Configurations
             .HasColumnType("datetime");
 
             builder.Property(e => e.Image)
-            .HasColumnName("Image")
+            .HasColumnName("Imagen")
                 .HasMaxLength(500)
                 .IsUnicode(false);
 

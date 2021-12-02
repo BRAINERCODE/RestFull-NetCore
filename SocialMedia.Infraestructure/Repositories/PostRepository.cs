@@ -18,6 +18,12 @@ namespace SocialMedia.Infraestructure.Repositories
             _socialMediaContext = socialMedia;
         }
 
+        public async Task InsertPost(Post post)
+        {
+            _socialMediaContext.Post.Add(post);
+            await _socialMediaContext.SaveChangesAsync();
+        }
+
         public async Task<Post> GetPost(int id)
         {
             var post = await _socialMediaContext.Post.FirstOrDefaultAsync(x => x.PostId == id);
