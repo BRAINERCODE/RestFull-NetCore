@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lg0MXN8QhXygtA0eRCHTZI7NpynZnyjD+Lbv3YG38uTIaBy/WIQkqNtdfQuBzozTEyozHTzFclcjjFNfjR0yIw==",
+  "dgSpecHash": "+KfLD+8KXmGbbIbPnMozrM0kgOk0q3U/nA5HFy+TqHAeLJ/g6z3ulOMnKiQBown/Erhndn1jnI49zjUywiyJ0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.API\\SocialMedia.API\\SocialMedia.API.csproj",
+  "projectFilePath": "C:\\Users\\BrainerBetancur\\source\\repos\\SocialMedia.Api\\SocialMedia.API\\SocialMedia.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrainerBetancur\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\BrainerBetancur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

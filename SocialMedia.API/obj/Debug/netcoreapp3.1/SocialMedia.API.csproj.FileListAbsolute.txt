@@ -55,3 +55,9 @@ C:\Users\BrainerBetancur\source\repos\SocialMedia.Api\SocialMedia.API\bin\Debug\
 C:\Users\BrainerBetancur\source\repos\SocialMedia.Api\SocialMedia.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\BrainerBetancur\source\repos\SocialMedia.Api\SocialMedia.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\BrainerBetancur\source\repos\SocialMedia.Api\SocialMedia.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BrainerBetancur\source\repos\SocialMedia.API\SocialMedia.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
